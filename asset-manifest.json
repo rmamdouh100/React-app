@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-app/static/css/main.0f646c76.css",
+    "main.js": "/React-app/static/js/main.ab001627.js",
+    "static/js/787.6e1697bb.chunk.js": "/React-app/static/js/787.6e1697bb.chunk.js",
+    "static/media/fa-solid-900.ttf": "/React-app/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/React-app/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/React-app/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/React-app/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/React-app/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/React-app/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/img-1.jpg": "/React-app/static/media/img-1.fdb551418e95df03da8e.jpg",
+    "static/media/fa-v4compatibility.ttf": "/React-app/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/React-app/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/React-app/index.html",
+    "main.0f646c76.css.map": "/React-app/static/css/main.0f646c76.css.map",
+    "main.ab001627.js.map": "/React-app/static/js/main.ab001627.js.map",
+    "787.6e1697bb.chunk.js.map": "/React-app/static/js/787.6e1697bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f646c76.css",
+    "static/js/main.ab001627.js"
+  ]
+}
